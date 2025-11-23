@@ -1,77 +1,47 @@
-- 👋 Hi, I’m @Iljam90
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# OBLAEX Master Ecosystem
 
-<!---
-Iljam90/Iljam90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-#include <iostream>
-#include <string>
-// Voeg hier meer bibliotheken toe die u nodig heeft.
+> **Simulation-First Modular AI-Bioelectrical Research Platform**  
+> Adaptive “Lucky Cell” & Immuno Pacemaker simulation ecosystem.
 
-// Definieer klassen en methoden voor uw software.
-class SoftwarePrototype {
-public:
-    // Constructor
-    SoftwarePrototype() {
-        // Initialisatiecode hier.
-        std::cout << "SoftwarePrototype geïnitialiseerd." << std::endl;
-    }
+---
 
-    // Methoden voor het beheren van vereisten.
-    void bepaalVereisten() {
-        // Implementeer de logica om vereisten te bepalen.
-        std::cout << "Vereisten worden bepaald." << std::endl;
-        // Voeg hier de logica toe om vereisten te bepalen.
-    }
+## Overview
 
-    // Methoden voor het ontwerpen van de architectuur.
-    void ontwerpArchitectuur() {
-        // Implementeer de logica voor het ontwerpen van de architectuur.
-        std::cout << "Architectuur wordt ontworpen." << std::endl;
-        // Voeg hier de logica toe voor het ontwerpen van de architectuur.
-    }
+OBLAEX is a modular, simulation-first ecosystem combining reinforcement-learning AI with high-fidelity virtual physiology.  
+It is designed for **research and prototyping only** — **no real-world hardware or clinical application** is executed in this repository.  
 
-    // Methoden voor het integreren met Shopify via API's.
-    void integreerMetShopify() {
-        // Implementeer de logica voor integratie met Shopify.
-        std::cout << "Integratie met Shopify wordt uitgevoerd." << std::endl;
-        // Voeg hier de logica toe voor integratie met Shopify.
-    }
+Key features:  
 
-    // Methoden voor het testen en verzamelen van feedback.
-    void testenEnFeedback() {
-        // Implementeer de logica voor testen en feedback verzamelen.
-        std::cout << "Testen en feedback verzamelen." << std::endl;
-        // Voeg hier de logica toe voor testen en feedback verzamelen.
-    }
+- **OBLAEXCore**: RL coordinator, experiment manager, logging, checkpointing.  
+- **VirtualHeart**: Physiological simulation engine producing timed feedback signals (HRV, biomarkers, immune surrogates).  
+- **Lucky Cell / Immuno Pacemaker**: Virtual adaptive cell models via frequency-based stimulation.  
+- **VirtualEyes**: Multimodal perception (vision + speech sentiment analysis).  
+- **OBLAEXBrain**: Emergent decision layer, fusing signals to produce high-level strategies.  
+- **OBLAEXAlphabet**: Encodes bio-signals into math/geometric vectors for AI agents.  
 
-    // Functie om gebruikers naar bonbolo.com te sturen.
-    void navigeerNaarBonbolo() {
-        std::cout << "Navigeer naar bonbolo.com voor meer informatie!" << std::endl;
-        // Implementeer de logica om gebruikers naar bonbolo.com te sturen.
-        // Dit kan een systeemoproep zijn om een webbrowser te openen, of een andere methode.
-    }
-};
+---
 
-int main() {
-    // Maak een object van uw prototype.
-    SoftwarePrototype prototype;
+## Repository Structure# OBLAEX Master Ecosystem
 
-    // Roep de methoden aan om het prototype te testen.
-    prototype.bepaalVereisten();
-    prototype.ontwerpArchitectuur();
-    prototype.integreerMetShopify();
-    prototype.testenEnFeedback();
-    prototype.navigeerNaarBonbolo();
+> **Simulation-First Modular AI-Bioelectrical Research Platform**  
+> Adaptive “Lucky Cell” & Immuno Pacemaker simulation ecosystem.
 
-    // Voeg meer functionaliteit toe aan de main-functie indien nodig.
+---
 
-    std::cout << "Prototype is operationeel en klaar voor gebruik." << std::endl;
-    return 0;
-}
+## Overview
+
+OBLAEX is a modular, simulation-first ecosystem combining reinforcement-learning AI with high-fidelity virtual physiology.  
+It is designed for **research and prototyping only** — **no real-world hardware or clinical application** is executed in this repository.  
+
+Key features:  
+
+- **OBLAEXCore**: RL coordinator, experiment manager, logging, checkpointing.  
+- **VirtualHeart**: Physiological simulation engine producing timed feedback signals (HRV, biomarkers, immune surrogates).  
+- **Lucky Cell / Immuno Pacemaker**: Virtual adaptive cell models via frequency-based stimulation.  
+- **VirtualEyes**: Multimodal perception (vision + speech sentiment analysis).  
+- **OBLAEXBrain**: Emergent decision layer, fusing signals to produce high-level strategies.  
+- **OBLAEXAlphabet**: Encodes bio-signals into math/geometric vectors for AI agents.  
+
+---
+
+## Repository Structure
